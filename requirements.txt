@@ -1,0 +1,6 @@
+streamlit
+haystack-ai
+sentence-transformers>=3.0.0
+datasets>=2.6.1
+langchain_community
+docx2txt
